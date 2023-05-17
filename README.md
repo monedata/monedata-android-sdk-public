@@ -1,4 +1,4 @@
-![Monedata](https://raw.githubusercontent.com/monedata/monedata-android-sdk-public/main/assets/logo.svg)
+![Monedata](https://raw.githubusercontent.com/monedata/monedata-android-sdk-public/main/assets/logo.png)
 
 # Monedata Android SDK
 
